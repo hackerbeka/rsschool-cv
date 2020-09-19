@@ -21,3 +21,15 @@ I learned about the course from the Instagram of ***Epam Kazakhstan*** and immed
 - JavaScript
 - Git
 - Adobe Photoshop/Figma
+- VScode/SublimeText3/Notepad++
+
+## Education
+- **Eurasian National University(ENU)** 
+Bachelor degree, “Information Systems” | since 2019 
+- **Skillbox**
+Web layout for beginners 2.0 | 2019
+- **Code Basics**
+HTML/CSS and JavaScript Tutorial Courses | 2020
+
+## English
+I studied English at school, took courses and studied on my own. My level of English is intermediate (B1), the definition of the English language was passed with the help of the [EPAM Training](https://training.epam.kz/#!/Home?lang=ru) test.
