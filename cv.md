@@ -15,3 +15,9 @@ I started my training in *front-end development* in February, 2020. At first, I 
 Also I understand Photoshop through *Adobe Photoshop* and *Figma*. Of course, then knowledge in this area was at a basic level, but now having entered the ***Rolling Scopes School***, I got a lot of motivation to learn and develop in front-end development. 
 
 I learned about the course from the Instagram of ***Epam Kazakhstan*** and immediately registered there. I knew that, this was my chance and I shouldn't miss it.Since having plunged into the world of the front-end and communicating with students from RS School, I see how they develop themselves, help each other and this is just a brain explosion, there is so much motivation and knowledge that I want to learn and develop.
+
+## Technical skills
+- HTML/CSS
+- JavaScript
+- Git
+- Adobe Photoshop/Figma
